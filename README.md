@@ -28,10 +28,14 @@
 
 <p align="center">I'm currently working on a project called <strong>EZSplit</strong>. It's a group expense splitting application. You can check it out here.</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wavepin&repo=ezsplit)](https://github.com/wavepin/ezsplit)
-
-<p>
-
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavepin&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<p align="center">
+  
+  <a href="https://github.com/wavepin/ezsplit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wavepin&repo=ezsplit" />
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=wavepin&show_icons=true&theme=radical" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  
+</p>
