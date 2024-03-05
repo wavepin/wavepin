@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jason and I love to build fun and useful apps</h2>
+<h2 align="left">Hi 👋! My name is Jason and I love to build fun and useful apps.</h2>
 
 ###
 
