@@ -29,13 +29,15 @@
 <p align="center">I'm currently working on a project called <strong>EZSplit</strong>. It's a group expense splitting application. You can check it out here.</p>
 
 <p align="center">
-  
   <a href="https://github.com/wavepin/ezsplit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wavepin&repo=ezsplit" />
   </a>
-  
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wavepin&show_icons=true&theme=radical" />
-  
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-  
 </p>
