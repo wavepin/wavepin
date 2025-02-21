@@ -24,12 +24,6 @@
     <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/wavepin/ezsplit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wavepin&repo=ezsplit" />
-  </a>
-</p>
-
 <p></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
