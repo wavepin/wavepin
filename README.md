@@ -24,10 +24,6 @@
     <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="center">🔭 Current Project</h3>
-
-<p align="center">I'm currently working on a project called <strong>EZSplit</strong>. It's a group expense splitting application. You can check it out here.</p>
-
 <p align="center">
   <a href="https://github.com/wavepin/ezsplit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wavepin&repo=ezsplit" />
