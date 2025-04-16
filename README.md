@@ -28,7 +28,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wavepin&show_icons=true&theme=radical" />
-</p>
