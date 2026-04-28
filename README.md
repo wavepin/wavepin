@@ -4,9 +4,7 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW83OWp3enc3MW1nMzhiaTlnOHB0aWk5MzBiMzZneHl5NWIzOWNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" />
 </p>
 
-<h3 align="center">A passionate developer from Earth 🌍</h3>
-
-<p align="center"> I love to build fun and useful apps. I'm always learning and improving my skills. </p>
+<h3 align="center">I love to build fun and useful app 🧑‍💻</h3>
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
