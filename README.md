@@ -16,6 +16,10 @@
 </p>
 
 <p align="center">
+  <a href="https://wavepin.github.io/">
+    <img alt="Visit my portfolio" src="https://img.shields.io/badge/Explore_my_portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://github.com/wavepin?tab=repositories">
     <img alt="Explore my repositories" src="https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
